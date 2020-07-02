@@ -3,6 +3,8 @@ SirParmar.github.io
 
 Source code of my Website. Copyright 2020
 
+![Screenshot](/Screenshot.png)
+
 ## Caution
 
 If you fork this code, please modify the **form action** to an email address you own before trying it out. [Thanks!]
